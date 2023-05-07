@@ -19,4 +19,4 @@ Cloudflare Pro 可用的 自定义页面
 Mail：BlueSky@000714.xyz
 
 2022-10-25 IMGUGU 稍作修改，修复了在 Cloudflare 上部署失败的问题
-您好，机主暂时不方便接听电话，如有重要事情，请您留言，稍后回复您。
+
